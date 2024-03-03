@@ -40,7 +40,7 @@ $ export AWS_PROFILE="satoken"
 # 初期化
 $ terraform init
 
-# 検証
+# ドライラン
 $ terraform plan
 
 # 適用
